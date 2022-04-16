@@ -1,4 +1,4 @@
-package com.github.youssfbr.votacaobbbapi.model;
+package com.github.youssfbr.votacao.bbb.api.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -11,11 +11,11 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Document("participantes")
-public class ParticipanteModel {
+@Document("parametros")
+public class ParametroModel {
 
     @Id
-    private String id;
-    private String nome;
+    private String chave;
+    private String valor;
 
 }

@@ -1,4 +1,4 @@
-package com.github.youssfbr.votacaobbbapi;
+package com.github.youssfbr.votacao.bbb.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

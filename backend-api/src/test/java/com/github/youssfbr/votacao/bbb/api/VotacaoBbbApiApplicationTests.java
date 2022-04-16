@@ -1,4 +1,4 @@
-package com.github.youssfbr.votacaobbbapi;
+package com.github.youssfbr.votacao.bbb.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

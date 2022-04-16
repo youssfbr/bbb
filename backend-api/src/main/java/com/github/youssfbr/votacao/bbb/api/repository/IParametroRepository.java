@@ -1,6 +1,6 @@
-package com.github.youssfbr.votacaobbbapi.repository;
+package com.github.youssfbr.votacao.bbb.api.repository;
 
-import com.github.youssfbr.votacaobbbapi.model.ParametroModel;
+import com.github.youssfbr.votacao.bbb.api.model.ParametroModel;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

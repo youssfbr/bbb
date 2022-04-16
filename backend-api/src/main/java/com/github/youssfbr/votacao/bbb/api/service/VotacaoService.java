@@ -1,6 +1,6 @@
-package com.github.youssfbr.votacaobbbapi.service;
+package com.github.youssfbr.votacao.bbb.api.service;
 
-import com.github.youssfbr.votacaobbbapi.model.ParticipanteModel;
+import com.github.youssfbr.votacao.bbb.api.model.ParticipanteModel;
 
 import lombok.RequiredArgsConstructor;
 

@@ -1,7 +1,7 @@
-package com.github.youssfbr.votacaobbbapi.controller;
+package com.github.youssfbr.votacao.bbb.api.controller;
 
-import com.github.youssfbr.votacaobbbapi.model.ParticipanteModel;
-import com.github.youssfbr.votacaobbbapi.repository.IParticipanteRepository;
+import com.github.youssfbr.votacao.bbb.api.model.ParticipanteModel;
+import com.github.youssfbr.votacao.bbb.api.repository.IParticipanteRepository;
 
 import lombok.RequiredArgsConstructor;
 
